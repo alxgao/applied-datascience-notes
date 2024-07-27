@@ -1,1 +1,2 @@
 # applied-datascience-notes
+notes
