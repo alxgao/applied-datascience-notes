@@ -1,2 +1,2 @@
 # applied-datascience-notes
-notes
+my notes from an ml class for personal reference
